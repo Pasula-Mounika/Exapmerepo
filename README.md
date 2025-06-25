@@ -1,1 +1,3 @@
 # Exapmerepo
+
+This is my first example project in git...
